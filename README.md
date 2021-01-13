@@ -1,8 +1,9 @@
 # SudokuSovler
 A Mini Project which correctly completes a partially filled Sudoku in C++
-Name- Mansi Agarwal                                                          Semester - IV
+
+Name- Mansi Agarwal                                 
 Course – B.Tech CSE (DS AND AI)
-University Roll no.- 2015176
+Batch: 2019-23
 
 The project is about taking a partially filled sudoku as an input from the user and giving a completely solved correct sudoku as an output. Sudoku is a 9x9 matrix that has numbers filled from 1-9 such that no row or column contains the same digit twice.
 The tools and technology used are as follows:
